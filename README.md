@@ -23,10 +23,10 @@
 
 I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engineer** with **3+ years of experience** building production-grade software systems, AI-powered platforms, containerized infrastructure, and comprehensive QA solutions.
 
-- 🌐 **Full-Stack Development** — Modern web applications with React, Next.js & TypeScript
+- 🌐 **Full-Stack Development** — Modern web apps with React, Next.js & TypeScript
 - 🤖 **AI Automation** — Intelligent workflows with OpenAI, LangChain & n8n
 - ☁️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, AWS & scalable deployments
-- ⚡ **Forward Deployed Engineering** — Rapid prototyping to production for fast-moving teams
+- ⚡ **Forward Deployed Engineering** — Rapid prototyping to production
 - 🧪 **QA & Testing** — ISTQB certified, manual & automated testing, game testing
 - ⛓️ **Blockchain** — Smart contract development on Ethereum
 
@@ -77,11 +77,13 @@ I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engine
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princeflexzy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=06b6d4&text_color=e2e8f0" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=princeflexzy0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=06b6d4&text_color=e2e8f0" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeflexzy0&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeflexzy0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeflexzy0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeflexzy0&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=475569" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeflexzy0&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=06b6d4&point=3b82f6&area=true&area_color=3b82f6" />
 
 </div>
 
@@ -94,22 +96,19 @@ const Emmanuel = {
     name: "Atere Oluwaseyi Emmanuel",
     location: "Lagos, Nigeria 🇳🇬",
     availability: "✅ Open for Freelance & Contract Work",
-
     education: {
         degree: "B.Tech Industrial Chemistry",
         university: "Federal University of Technology Akure",
         graduated: 2024
     },
-
     expertise: {
-        frontend:    ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend:     ["Node.js", "Python", "FastAPI", "PostgreSQL", "Supabase"],
-        devops:      ["Docker", "Kubernetes", "CI/CD", "AWS", "Nginx"],
-        ai:          ["OpenAI APIs", "LangChain", "n8n", "AI Agents"],
-        blockchain:  ["Solidity", "Ethereum", "Smart Contracts", "Web3.js"],
-        qa:          ["ISTQB Certified", "Selenium", "Jest", "Cypress", "Game Testing"]
+        frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend:    ["Node.js", "Python", "FastAPI", "PostgreSQL", "Supabase"],
+        devops:     ["Docker", "Kubernetes", "CI/CD", "AWS", "Nginx"],
+        ai:         ["OpenAI APIs", "LangChain", "n8n", "AI Agents"],
+        blockchain: ["Solidity", "Ethereum", "Smart Contracts", "Web3.js"],
+        qa:         ["ISTQB Certified", "Selenium", "Jest", "Cypress", "Game Testing"]
     },
-
     contact: {
         email:    "emmanuelatere44@gmail.com",
         whatsapp: "+234 813 215 5087",
@@ -135,8 +134,6 @@ const Emmanuel = {
 ---
 
 ## 📫 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to build great things together.
 
 - 🌐 **Portfolio:** [princeflexzy0.github.io/portfolio](https://princeflexzy0.github.io/portfolio/)
 - 💼 **LinkedIn:** [emmanuel-atere-908772209](https://www.linkedin.com/in/emmanuel-atere-908772209/)
