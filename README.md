@@ -21,14 +21,21 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engineer** with **3+ years of experience** building production-grade software systems, AI-powered platforms, containerized infrastructure, and comprehensive QA solutions.
+I'm a **Full-Stack Engineer**, **AI Automation Specialist**, **DevOps Engineer**, and **Forward Deployed Engineer** with **6+ years of experience** building production-grade software systems, AI-powered platforms, and cloud-native infrastructure.
 
-- 🌐 **Full-Stack Development** — Modern web apps with React, Next.js & TypeScript
-- 🤖 **AI Automation** — Intelligent workflows with OpenAI, LangChain & n8n
-- ☁️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, AWS & scalable deployments
-- ⚡ **Forward Deployed Engineering** — Rapid prototyping to production
-- 🧪 **QA & Testing** — ISTQB certified, manual & automated testing, game testing
-- ⛓️ **Blockchain** — Smart contract development on Ethereum
+I embed directly with client engineering teams and fast-moving startups — parachuting into complex environments, rapidly understanding the codebase and business needs, and shipping production-ready features within days. I own the full stack so nothing falls through the cracks.
+
+---
+
+## 💼 What I Do
+
+| Area | Description |
+|---|---|
+| ⚡ **Forward Deployed Engineering** | Embed with client teams, ship production systems fast with zero handoff delays |
+| 🌐 **Full-Stack Development** | End-to-end web apps from pixel-perfect UI to robust backend APIs |
+| 🤖 **AI & Automation** | Intelligent workflows, AI agents, and LLM-powered pipelines that scale |
+| ☁️ **DevOps & Cloud** | Docker, Kubernetes, CI/CD pipelines, AWS, and resilient infrastructure |
+| 🧪 **QA & Testing** | ISTQB certified — automated & manual testing, game QA, zero-bug delivery |
 
 ---
 
@@ -64,11 +71,6 @@ I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engine
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
 </div>
 
 ---
@@ -86,37 +88,6 @@ I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engine
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeflexzy0&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=06b6d4&point=3b82f6&area=true&area_color=3b82f6" />
 
 </div>
-
----
-
-## 💼 What I Do
-
-```typescript
-const Emmanuel = {
-    name: "Atere Oluwaseyi Emmanuel",
-    location: "Lagos, Nigeria 🇳🇬",
-    availability: "✅ Open for Freelance & Contract Work",
-    education: {
-        degree: "B.Tech Industrial Chemistry",
-        university: "Federal University of Technology Akure",
-        graduated: 2024
-    },
-    expertise: {
-        frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend:    ["Node.js", "Python", "FastAPI", "PostgreSQL", "Supabase"],
-        devops:     ["Docker", "Kubernetes", "CI/CD", "AWS", "Nginx"],
-        ai:         ["OpenAI APIs", "LangChain", "n8n", "AI Agents"],
-        blockchain: ["Solidity", "Ethereum", "Smart Contracts", "Web3.js"],
-        qa:         ["ISTQB Certified", "Selenium", "Jest", "Cypress", "Game Testing"]
-    },
-    contact: {
-        email:    "emmanuelatere44@gmail.com",
-        whatsapp: "+234 813 215 5087",
-        linkedin: "linkedin.com/in/emmanuel-atere-908772209",
-        github:   "github.com/princeflexzy0"
-    }
-};
-```
 
 ---
 
