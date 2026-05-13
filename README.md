@@ -4,7 +4,13 @@
 
 ### Full-Stack Engineer | AI Automation Engineer | DevOps Specialist
 
-![Profile Views](https://komarev.com/ghpvc/?username=princeflexzy0&color=0ea5e9)
+Building scalable systems and intelligent automation solutions
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://princeflexzy0.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelatere44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=princeflexzy0&color=3b82f6&style=flat-square)
 
 </div>
 
@@ -12,41 +18,45 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Engineer** and **AI Automation Specialist** with **6+ years of experience** building scalable software systems, AI-powered platforms, and cloud-native infrastructure for startups, agencies, and businesses.
+I'm a **Full-Stack Engineer**, **AI Automation Specialist**, and **DevOps Engineer** with **6+ years of experience** building production-grade software systems, AI-powered platforms, and cloud-native infrastructure.
 
 I specialize in:
-- 🌐 Building production-grade web applications with **React**, **Next.js**, and **TypeScript**
-- 🤖 Creating intelligent automation systems using **OpenAI**, **LangChain**, and **n8n**
-- ☁️ Deploying scalable infrastructure with **Docker**, **Kubernetes**, and **CI/CD pipelines**
-- ⚡ Rapid prototyping and forward-deployed engineering for fast-moving teams
+- 🌐 **Full-Stack Development** — Building modern web applications with React, Next.js, and TypeScript
+- 🤖 **AI Automation** — Creating intelligent workflows with OpenAI, LangChain, and n8n
+- ☁️ **DevOps & Infrastructure** — Deploying scalable systems with Docker, Kubernetes, and CI/CD
+- ⚡ **Forward Deployed Engineering** — Rapid prototyping and production deployment for fast-moving teams
 
 ---
 
 ## 🛠️ Tech Stack
 
-```text
-Frontend:    React • Next.js • TypeScript • Tailwind CSS
-Backend:     Node.js • Python • FastAPI • Express • PostgreSQL • Supabase
-DevOps:      Docker • Kubernetes • CI/CD • AWS • Vercel • Railway
-AI/ML:       OpenAI • LangChain • n8n • Vector DBs • AI Agents
-Tools:       Git • Linux • Nginx • FFmpeg
-```
+<div align="center">
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🎯 Featured Projects
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### [🚀 Revozi](https://www.revozi.com/) 
-AI-powered SaaS review management platform with automated response generation and real-time analytics.  
-**Tech:** Next.js • FastAPI • PostgreSQL • OpenAI
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### [📋 AI Task Manager](https://www.aitaskmanager.pro/)
-Intelligent task automation platform with AI-driven workflows and team collaboration.  
-**Tech:** React • Node.js • Supabase • AI Integration
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### [🎙️ AI Podcast Automation](https://frontend-production-2cc0.up.railway.app/)
-End-to-end podcast automation with transcription, captions, and content distribution.  
-**Tech:** Next.js • Python • FFmpeg • OpenAI
+</div>
 
 ---
 
@@ -54,28 +64,57 @@ End-to-end podcast automation with transcription, captions, and content distribu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeflexzy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=princeflexzy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeflexzy0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeflexzy0&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 What I Do
 
-**Forward Deployed Engineer** | Self-Employed | *2022 – Present*
-- Built AI automation systems and SaaS platforms for startups and agencies
-- Deployed scalable infrastructure using Docker, Kubernetes, and cloud services
-- Integrated AI workflows with OpenAI, n8n, and modern orchestration tools
+```typescript
+const Emmanuel = {
+    location: "Lagos, Nigeria",
+    availability: "Open for Freelance & Contract Work",
+    
+    expertise: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Python", "FastAPI", "PostgreSQL"],
+        devops: ["Docker", "Kubernetes", "CI/CD", "AWS"],
+        ai: ["OpenAI APIs", "LangChain", "n8n", "AI Agents"]
+    },
+    
+    focus: [
+        "Building scalable SaaS platforms",
+        "AI automation & workflow optimization",
+        "Cloud-native infrastructure",
+        "Production-grade systems"
+    ]
+};
+```
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Core Competencies
 
-- 🌐 **Portfolio:** [View Live Portfolio](https://princeflexzy0.github.io/portfolio/)
+- ✅ **Full-Stack Development** — Modern web applications with React/Next.js
+- ✅ **AI Integration** — Intelligent automation using OpenAI and LangChain
+- ✅ **DevOps Engineering** — Containerization, CI/CD, and cloud deployment
+- ✅ **System Architecture** — Scalable, secure, and maintainable systems
+- ✅ **Rapid Prototyping** — From concept to production in weeks, not months
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to build something great together.
+
+- 🌐 **Portfolio:** [princeflexzy0.github.io/portfolio](https://princeflexzy0.github.io/portfolio/)
+- 📧 **Email:** emmanuelatere44@gmail.com
 - 💼 **Upwork:** Available for freelance work
-- 📧 **Email:** your-email@example.com
+- 📱 **WhatsApp:** [+234 813 215 5087](https://wa.me/2348132155087)
 
 ---
 
@@ -83,6 +122,8 @@ End-to-end podcast automation with transcription, captions, and content distribu
 
 ### ⚡ Currently Available for Freelance & Contract Work
 
-*Building the future, one system at a time.*
+**Let's build something amazing together**
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-3b82f6?style=for-the-badge)](https://princeflexzy0.github.io/portfolio/)
 
 </div>

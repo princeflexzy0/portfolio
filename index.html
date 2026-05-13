@@ -170,6 +170,27 @@
             }
         }
 
+        .profile-image-container {
+            margin-bottom: 2rem;
+        }
+
+        .profile-image {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            border: 4px solid var(--primary);
+            box-shadow: 0 10px 40px rgba(59, 130, 246, 0.4);
+            object-fit: cover;
+            margin: 0 auto;
+            display: block;
+            animation: fadeIn 0.8s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
         .hero h1 {
             font-size: clamp(2.5rem, 8vw, 5rem);
             font-weight: 800;
@@ -497,6 +518,11 @@
                 padding-top: 5rem;
             }
 
+            .profile-image {
+                width: 140px;
+                height: 140px;
+            }
+
             .cta-group {
                 flex-direction: column;
             }
@@ -533,6 +559,9 @@
 
     <section class="hero">
         <div class="hero-content">
+            <div class="profile-image-container">
+                <img src="profile.jpg" alt="Emmanuel Atere" class="profile-image">
+            </div>
             <div class="badge">Available for Freelance & Contracts</div>
             <h1>Emmanuel Atere</h1>
             <p class="subtitle">
@@ -713,7 +742,7 @@
             <div class="glass-card contact-card">
                 <div class="icon">📧</div>
                 <h3>Email</h3>
-                <a href="mailto:your-email@example.com">your-email@example.com</a>
+                <a href="mailto:emmanuelatere44@gmail.com">emmanuelatere44@gmail.com</a>
             </div>
 
             <div class="glass-card contact-card">
@@ -726,6 +755,12 @@
                 <div class="icon">💻</div>
                 <h3>GitHub</h3>
                 <a href="https://github.com/princeflexzy0" target="_blank">@princeflexzy0</a>
+            </div>
+
+            <div class="glass-card contact-card">
+                <div class="icon">📱</div>
+                <h3>WhatsApp</h3>
+                <a href="https://wa.me/2348132155087" target="_blank">+234 813 215 5087</a>
             </div>
         </div>
     </section>
