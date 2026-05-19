@@ -1,3 +1,4 @@
+cat > README.md << 'EOF'
 <div align="center">
 
 <img src="https://github.com/princeflexzy0/portfolio/blob/main/profile.jpg?raw=true" width="130" style="border-radius:50%" alt="Emmanuel Atere"/>
@@ -11,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://atereemmanuel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-atere-908772209/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelatere44@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348132155087)
+[![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/princeflexzy0)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princeflexzy0&color=3b82f6&style=flat-square&label=Profile+Views)
 
@@ -24,6 +25,23 @@
 I'm a **Full-Stack Engineer**, **AI Automation Specialist**, **DevOps Engineer**, and **Forward Deployed Engineer** with **6+ years of experience** building production-grade software systems, AI-powered platforms, and cloud-native infrastructure.
 
 I embed directly with client engineering teams and fast-moving startups — parachuting into complex environments, rapidly understanding the codebase and business needs, and shipping production-ready features within days. I own the full stack so nothing falls through the cracks.
+
+---
+
+## 🔥 Featured Open Source Project
+
+<div align="center">
+
+### 🤖 [Canadian Spirit Social Manager](https://github.com/princeflexzy0/Princeflexzy-Social-Manager-Ai)
+
+**AI-powered social media automation that runs your entire presence on autopilot**
+
+Manages Twitter, Instagram, TikTok, Reddit, Facebook, Telegram, Pinterest & more — autonomously
+
+[![⭐ Star](https://img.shields.io/github/stars/princeflexzy0/Princeflexzy-Social-Manager-Ai?style=social)](https://github.com/princeflexzy0/Princeflexzy-Social-Manager-Ai)
+[![💖 Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/princeflexzy0)
+
+</div>
 
 ---
 
@@ -75,6 +93,29 @@ I embed directly with client engineering teams and fast-moving startups — para
 
 ---
 
+## 💖 Support My Open Source Work
+
+I build and maintain open-source projects that help developers and businesses automate and scale. Your sponsorship keeps these projects alive and enables me to create more tools for the community.
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/princeflexzy0)
+
+**Current Goal:** $50/month to cover API costs and hosting for open-source projects
+
+</div>
+
+### What Sponsors Get:
+
+- ✅ **Sponsor badge** on your profile
+- ✅ **Name/logo in project READMEs**
+- ✅ **Priority support** on issues and discussions
+- ✅ **Early access** to new features
+- ✅ **Monthly dev updates** via email
+- ✅ **1-on-1 consultation** ($100+ tier)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,10 +147,11 @@ I embed directly with client engineering teams and fast-moving startups — para
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [princeflexzy0.github.io/portfolio](https://princeflexzy0.github.io/portfolio/)
+- 🌐 **Portfolio:** [atereemmanuel.vercel.app](https://atereemmanuel.vercel.app)
 - 💼 **LinkedIn:** [emmanuel-atere-908772209](https://www.linkedin.com/in/emmanuel-atere-908772209/)
 - 📧 **Email:** emmanuelatere44@gmail.com
 - 📱 **WhatsApp:** [+234 813 215 5087](https://wa.me/2348132155087)
+- 💖 **Sponsor:** [github.com/sponsors/princeflexzy0](https://github.com/sponsors/princeflexzy0)
 
 ---
 
@@ -119,9 +161,11 @@ I embed directly with client engineering teams and fast-moving startups — para
 
 **Full-Stack · AI Automation · DevOps · Forward Deployed Engineering**
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-3b82f6?style=for-the-badge&logo=About.me&logoColor=white)](https://princeflexzy0.github.io/portfolio/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-3b82f6?style=for-the-badge&logo=About.me&logoColor=white)](https://atereemmanuel.vercel.app)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-atere-908772209/)
+[![💖 Sponsor Me](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/princeflexzy0)
 
 *Building the future, one system at a time. 🚀*
 
 </div>
+EOF
