@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 <div align="center">
 
 <img src="https://github.com/princeflexzy0/portfolio/blob/main/profile.jpg?raw=true" width="130" style="border-radius:50%" alt="Emmanuel Atere"/>
@@ -166,6 +166,3 @@ I build and maintain open-source projects that help developers and businesses au
 [![💖 Sponsor Me](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/princeflexzy0)
 
 *Building the future, one system at a time. 🚀*
-
-</div>
-EOF
